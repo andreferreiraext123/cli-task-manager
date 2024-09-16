@@ -15,7 +15,7 @@ Aqui estão algumas imagens que mostram o programa em funcionamento:
 ![Menu do programa](docs/images/menu.PNG)
 
 ### Tarefas Salvas
-![Tarefas salvas](docs/images/list_with_tasks.png)
+![Tarefas salvas](docs/images/list_with_tasks.PNG)
 
 ### Limpando Histórico de Tela
 ![Limpando histórico de tela](docs/images/cleaning_screen.PNG)
@@ -52,6 +52,7 @@ Aqui estão algumas imagens que mostram o programa em funcionamento:
     - Sair: Encerra o programa.
 
 
+## Diagrama com a estrutura do projeto
 
 my_project/
 │
