@@ -53,12 +53,4 @@ Aqui estão algumas imagens que mostram o programa em funcionamento:
 
 
 ## Diagrama com a estrutura do projeto
-
-my_project/
-│
-├── src/
-│   ├── main.py
-│   └── functions.py
-├── db/
-│   ├── tasks_storage.db
-│   └── query_db_tasks.sqlite3
+![Diagrama](docs/images/diagrama.PNG)
