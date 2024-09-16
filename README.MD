@@ -8,14 +8,20 @@ Este programa em Python é um sistema básico de gerenciamento de tarefas usando
 - **Excluir**: Usuários podem excluir tarefas que foram previamente adicionadas.
 - **Mostrar**: Usuários podem visualizar todas as tarefas que foram adicionadas.
 
+## Imagens do Programa
+Aqui estão algumas imagens que mostram o programa em funcionamento:
 
-
-## Imagens do programa
+### Menu do Programa
 ![Menu do programa](docs/images/menu.PNG)
-![Tarefas salvas](docs/images/list_with_tasks.png)
-![Limpando histórico de tela](docs/images/cleaning_screen.PNG)
-![Fechando programa](docs/images/closing_program.PNG)
 
+### Tarefas Salvas
+![Tarefas salvas](docs/images/list_with_tasks.png)
+
+### Limpando Histórico de Tela
+![Limpando histórico de tela](docs/images/cleaning_screen.PNG)
+
+### Fechando Programa
+![Fechando programa](docs/images/closing_program.PNG)
 
 
 ## Uso
@@ -47,12 +53,11 @@ Este programa em Python é um sistema básico de gerenciamento de tarefas usando
 
 
 
-# ERD (Diagrama do projeto)
 my_project/
 │
 ├── src/
-│   └── main.py
-|   └── functions.py
+│   ├── main.py
+│   └── functions.py
 ├── db/
-│   └── tasks_storage.db
-|   └── query_db_tasks.sqlite3query
+│   ├── tasks_storage.db
+│   └── query_db_tasks.sqlite3
