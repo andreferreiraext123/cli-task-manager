@@ -1,0 +1,30 @@
+-- database: ./tasks_storage.db
+
+SELECT * FROM tasks;
+
+
+-- Creating the table with the columns
+CREATE TABLE IF NOT EXISTS tasks(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    content TEXT(100) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Putting data
+INSERT INTO tasks (content) 
+VALUES ('olá meu parceirinho');
+
+-- Deleting data
+-- Using the id to delete the last row
+DELETE FROM tasks
+WHERE id = (
+    SELECT id
+    FROM tasks
+    ORDER BY id DESC
+    LIMIT 1
+);
+
+
+-- Deleting row with specific ID
+DELETE FROM tasks
+WHERE id = 10;
