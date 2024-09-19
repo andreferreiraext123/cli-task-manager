@@ -14,7 +14,7 @@ Este programa em Python é um sistema básico de gerenciamento de tarefas via te
 - **PyInstaller**: Ferramenta usada para compilar o projeto em um executável.
 
 ## Download do Executável
-Você pode baixar o executável do programa [aqui](https://objects.githubusercontent.com/github-production-release-asset-2e65be/858188710/ccc132a7-78c5-4479-a43e-a108fc6e4771?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T234022Z&X-Amz-Expires=300&X-Amz-Signature=48d8726d5811aac4e28c5ba655eb45e95c9e56555a6db2ba871fb027305f2a98&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B filename%3Dmain.exe&response-content-type=application%2Foctet-stream).
+Você pode baixar o executável do programa [aqui](https://github.com/andreferreiraext123/cli-task-manager/releases/download/untagged-b30cf9892f2fded3da52/main.exe).
 
 ## Imagens do Programa
 Aqui estão algumas imagens que mostram o programa em funcionamento:
