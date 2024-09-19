@@ -1,12 +1,20 @@
 # CLI Task Manager
 
 ## Descrição
-Este programa em Python é um sistema básico de gerenciamento de tarefas usando uma interface de terminal. Ele permite que os usuários gerenciem suas tarefas, fornecendo opções para adicionar, mostrar e excluir tarefas. É simples, mas útil.
+Este programa em Python é um sistema básico de gerenciamento de tarefas via terminal. Ele permite que os usuários gerenciem suas tarefas, oferecendo opções para adicionar, visualizar e excluir tarefas. Simples, mas prático para acompanhar suas pendências.
 
 ## Funcionalidades
-- **Adicionar**: Usuários podem adicionar várias tarefas ao programa.
-- **Excluir**: Usuários podem excluir tarefas que foram previamente adicionadas.
-- **Mostrar**: Usuários podem visualizar todas as tarefas que foram adicionadas.
+- **Adicionar**: Usuários podem adicionar múltiplas tarefas ao programa.
+- **Excluir**: Usuários podem remover tarefas que foram previamente adicionadas.
+- **Mostrar**: Usuários podem visualizar todas as tarefas registradas.
+
+## Tecnologias Utilizadas
+- **Python**: Linguagem de programação principal usada para o desenvolvimento.
+- **SQLite**: Banco de dados leve utilizado para armazenar as tarefas.
+- **PyInstaller**: Ferramenta usada para compilar o projeto em um executável.
+
+## Download do Executável
+Você pode baixar o executável do programa [aqui](link_do_executável).
 
 ## Imagens do Programa
 Aqui estão algumas imagens que mostram o programa em funcionamento:
@@ -29,7 +37,6 @@ Aqui estão algumas imagens que mostram o programa em funcionamento:
    ```bash
    git clone https://github.com/andreferreiraext123/cli-task-manager
    cd cli-task-manager
-
 2. **Execute o programa:**
     ```bash
     python task_manager.py
@@ -51,6 +58,5 @@ Aqui estão algumas imagens que mostram o programa em funcionamento:
     - Limpar tela: Remove o histórico de tela
     - Sair: Encerra o programa.
 
-
-## Diagrama com a estrutura do projeto
-![Diagrama](docs/images/diagrama.PNG)
+## Diagrama da Estrutura do Projeto
+![Diagrama da Estrutura do Projeto](docs/images/der.PNG)
