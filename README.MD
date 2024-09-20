@@ -29,7 +29,7 @@ Aqui estão algumas imagens que mostram o programa em funcionamento:
 ![Limpando histórico de tela](docs/images/cleaning_screen.PNG)
 
 ### Programa em Execucao
-![Fechando programa](docs/images/gif.mp4)
+![Fechando programa](docs/images/gif.gif)
 
 
 ## Uso
